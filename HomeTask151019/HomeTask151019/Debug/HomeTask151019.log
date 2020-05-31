@@ -1,1 +1,8 @@
-﻿  HomeTask151019.vcxproj -> C:\Users\ilnic\Documents\GitHub\Practica\HomeTask151019\Debug\HomeTask151019.exe
+﻿  Source.cpp
+C:\Users\ilnic\Documents\GitHub\Practica\HomeTask151019\HomeTask151019\Source.cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ilnic\Documents\GitHub\Practica\HomeTask151019\HomeTask151019\Source.cpp(46,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ilnic\Documents\GitHub\Practica\HomeTask151019\HomeTask151019\Source.cpp(85,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ilnic\Documents\GitHub\Practica\HomeTask151019\HomeTask151019\Source.cpp(116,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ilnic\Documents\GitHub\Practica\HomeTask151019\HomeTask151019\Source.cpp(133,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ilnic\Documents\GitHub\Practica\HomeTask151019\HomeTask151019\Source.cpp(210,38): warning C4018: <: несоответствие типов со знаком и без знака
+  HomeTask151019.vcxproj -> C:\Users\ilnic\Documents\GitHub\Practica\HomeTask151019\Debug\HomeTask151019.exe
